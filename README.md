@@ -16,7 +16,7 @@ You will also see any lint errors in the console.
 
 
 
-Steps to execute the application:
+<b><u>Steps to execute the application: </u><b>
 
 1) On the home page click on "Criteria Editor Dialog" button
 2) It will open the Dialog.
