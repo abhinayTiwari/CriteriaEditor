@@ -23,5 +23,5 @@ You will also see any lint errors in the console.
 3) Add the information in the editor table and click on the "Update Chart"
 4) Once you click on the "Update Chart", it will show render the table data into chart.
 5) Click on Save changes to run the function "onSave".
-<br/>
+
 <a href="https://raw.githubusercontent.com/abhinayTiwari/CriteriaEditor/main/Steps%20to%20use%20the%20Criteria%20Editor.png" target="_blank">Click here to see the infographic.</a>
